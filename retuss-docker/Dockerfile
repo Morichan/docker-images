@@ -14,6 +14,7 @@ RUN git clone https://github.com/morichan/retuss.git
 
 WORKDIR retuss
 
+# 4 tests failed
 # RUN gradle build
 
 CMD ["gradle", "run"]
