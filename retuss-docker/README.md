@@ -6,7 +6,7 @@ This is RETUSS' dockerfile.
 
 # What is RETUSS
 
-Please go to [RETUSS repository](https://github.com/Morichan/Retuss)
+Please go to [RETUSS repository](https://github.com/Morichan/Retuss).
 
 
 
